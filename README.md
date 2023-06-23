@@ -1,44 +1,36 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
 Temas:
- - Grafos1
- - Grafos2
- - PD
  - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
 
 # NomedoProjeto
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Dividir e conquistar<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+
+| Matrícula  | Aluno          |
+| ---------- | -------------- |
+| 19/0011424 | Carlos Eduardo |
+| 19/0011611 | Ciro Costa     |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O nosso projeto é um teste para ver qual casa de Hogwarts você pertênce
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
+<img  style="display: block; margin-left: auto; margin-right: auto; width: 30%;" alt="image" src="https://github.com/projeto-de-algoritmos/D-C_projetoSecreto/assets/54088490/3b4d5ad7-d9e7-48d0-98ed-c760b1ee5487">
+<img  style="display: block; margin-left: auto; margin-right: auto; width: 30%;" alt="image" src="https://github.com/projeto-de-algoritmos/D-C_projetoSecreto/assets/54088490/a1b37343-5966-4ea6-940d-d0a17d8e719a">
+<img  style="display: block; margin-left: auto; margin-right: auto; width: 30%;" alt="image" src="https://github.com/projeto-de-algoritmos/D-C_projetoSecreto/assets/54088490/c0114d76-d708-4901-a333-e0b224125aaa">
+
+
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Javascript<br>
+**Framework**: React<br>
+Para instalar o projeto é necessário ter o [Node](https://nodejs.org/en) instalado.
+Após isso é necessário rodar o commando `npm install` para instalar as dependencias e `npm run start` para rodar o projeto
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Mexa nos níveis das perguntas para mostrar qual casa você pertenceria.
 
 
 
